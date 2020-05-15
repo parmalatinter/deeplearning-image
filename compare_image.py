@@ -1,8 +1,5 @@
 # ref : https://qiita.com/best_not_best/items/c9497ffb5240622ede01
 
-# !/usr/bin/env python
-# -*- coding: UTF-8 -*-
-
 """hist matching."""
 
 import cv2
